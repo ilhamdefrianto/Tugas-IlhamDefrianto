@@ -1,0 +1,44 @@
+.container {
+    width: 283px;
+    height: 272px;
+    border: 3px solid #333;
+    border-radius: 10px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  .kotak1,
+  .kotak2,
+  .kotak3,
+  .kotakB {
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    font-weight: 800;
+  }
+  
+  .kotak1 {
+    margin-top: 5px;
+    margin-left: 5px;
+    border: 2px solid #333;
+  }
+  
+  .kotak2 {
+    margin-left: 100px;
+    margin-top: -173px;
+    border: 2px solid #333;
+    margin-bottom: 5px;
+  }
+  
+  .kotakB {
+    margin-left: 100px;
+    border: 2px solid #333;
+  }
+  
+  .kotak3 {
+    margin-left: 193px;
+    border: 2px solid #333;
+    position: absolute;
+    bottom: 270px;
+  }
+  
